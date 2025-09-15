@@ -20,17 +20,25 @@ Este proyecto es una herramienta interactiva desarrollada en Python con Streamli
 
 ## Estructura del proyecto
 
+Generated on: 15/9/2025, 9:33:18
+
 ```
-├── 📁 cuadernos/ 
-├── 📁 red-luz/ 
+├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 cuadernos/
+│   ├── 📁 datos-iluminaria/
+│   │   ├── 📄 Jesus_Maria_Luminarias_Postacion.geojson
+│   │   └── 📄 Jesus_Maria_Luminarias_Red.geojson
+│   └── 📓 red-iluminaria.ipynb
+├── 📁 red-luz/ 🚫 (auto-hidden)
 ├── 📁 source/
 │   ├── 📁 assets/
 │   │   └── 📁 logo/
 │   │       └── 🖼️ logo-personal-white.jpg
-│   └── 🐍 streamlit_app2.py <-- Archivo que ejecuta la app
+│   └── 🐍 streamlit_app2.py
 ├── 🚫 .gitignore
 ├── 📜 LICENSE
-└── 📖 Readme.md
+├── 📖 Readme.md
+└── 📄 requirements.txt
 ```
 
 ---
