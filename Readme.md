@@ -4,24 +4,25 @@ Este proyecto es una herramienta interactiva desarrollada en Python con Streamli
 
 ## ¿Por qué es útil para la toma de decisiones?
 
-### Visualización clara: Permite identificar rápidamente la distribución y el tipo de luminarias en toda la ciudad.
 
-### Filtros dinámicos: Los usuarios pueden filtrar por tipo de luminaria, lo que ayuda a detectar zonas con déficit de alumbrado o potencial de modernización.
+- #### Visualización clara: Permite identificar rápidamente la distribución y el tipo de luminarias en toda la ciudad.
 
-### Datos cuantitativos: Muestra métricas clave sobre la cantidad de cada tipo de luminaria, fundamentales para la planificación de inversiones y mantenimiento.
+- #### Filtros dinámicos: Los usuarios pueden filtrar por tipo de luminaria, lo que ayuda a detectar zonas con déficit de alumbrado o potencial de modernización.
 
-### Soporte a la gestión sostenible: Facilita la toma de decisiones orientadas a la eficiencia energética, reducción de emisiones y mejora de la infraestructura urbana.
+- #### Datos cuantitativos: Muestra métricas clave sobre la cantidad de cada tipo de luminaria, fundamentales para la planificación de inversiones y mantenimiento.
 
-### Transparencia y participación: Al ser una interfaz abierta y visual, promueve la transparencia y puede ser utilizada tanto por gestores públicos como por la ciudadanía.
+- #### Soporte a la gestión sostenible: Facilita la toma de decisiones orientadas a la eficiencia energética, reducción de emisiones y mejora de la infraestructura urbana.
 
-### Esta plataforma convierte los datos en una herramienta estratégica para la gestión territorial, la planificación energética y el desarrollo sostenible de la ciudad.
+- #### Transparencia y participación: Al ser una interfaz abierta y visual, promueve la transparencia y puede ser utilizada tanto por gestores públicos como por la ciudadanía.
+
+- #### Esta plataforma convierte los datos en una herramienta estratégica para la gestión territorial, la planificación energética y el desarrollo sostenible de la ciudad.
 
 
 ## Estructura del proyecto
 
 ```
-├── 📁 cuadernos/ 🚫 (auto-hidden)
-├── 📁 red-luz/ 🚫 (auto-hidden)
+├── 📁 cuadernos/ 
+├── 📁 red-luz/ 
 ├── 📁 source/
 │   ├── 📁 assets/
 │   │   └── 📁 logo/
